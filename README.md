@@ -8,7 +8,7 @@ Majored in Computer Science at college, I have solid technical background.
 ### 🔭 We are currently working on
 EVM-based dapp | Solidity | Rust | ReactJS | GoLang | C++ | Next.js | GraphQL | NodeJS | AWS | Github | No-SQL | Relational Database | Web3.js
 
-### What I'm focusing on 👨‍💻
+### What We're focusing on 👨‍💻
 building a solid system.
 
 ### 📫 How to reach:
