@@ -2,14 +2,14 @@
 
 We are a development team.
 
-Since 2019 we've been living and breathing web, dapp(Ethereum-based) development and creating web and mobile applications with cool tech stack. other than that I am an opensource contributor, a mentor and a speaker as well. ✨😍
+Since 2019 we've been living and breathing web, dapp(Ethereum, Binance smartchain, heco, fantom, matic, tron, solana-based) development and creating web and mobile applications with cool tech stack. 
+Majored in Computer Science at college, I have solid technical background.
 
 ### 🔭 We are currently working on
+EVM-based dapp | Solidity | Rust | ReactJS | GoLang | C++ | Next.js | GraphQL | NodeJS | AWS | Github | No-SQL | Relational Database | Web3.js
 
-ReactJS | Next.js | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS | Github | No Relation Database | Relation Database | Web3.js | EVM-based dapp
 ### What I'm focusing on 👨‍💻
-Website and dapp development using JavaScript or TypeScript
-
+building a solid system.
 
 ### 📫 How to reach:
 #### Email: galaxy126a@gmail.com
