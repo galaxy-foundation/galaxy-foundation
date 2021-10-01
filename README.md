@@ -10,7 +10,9 @@ EVM-based dapp | Solidity | Rust | ReactJS | GoLang | C++ | Next.js | GraphQL | 
 building a solid system.
 
 ## 📫 How to reach:
-### Email: galaxy126a@gmail.com
-### Telegram: https://t.me/blockfairy
-### Skype: https://join.skype.com/HyMDmAT2jd5K
-### Slack: https://join.slack.com/t/galaxy-foundation/shared_invite/zt-wir0yfte-tvJdeD~VIEU1rjVOIZEJmA
+```shell
+Email: galaxy126a@gmail.com
+Telegram: https://t.me/blockfairy
+Skype: https://join.skype.com/HyMDmAT2jd5K
+Slack: https://join.slack.com/t/galaxy-foundation/shared_invite/zt-wir0yfte-tvJdeD~VIEU1rjVOIZEJmA
+```
